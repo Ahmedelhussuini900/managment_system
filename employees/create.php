@@ -170,6 +170,8 @@ $conn->close();
             <?php endif; ?>
         </tbody>
     </table>
+    <!-- Back button -->
+<a href="../home/index.php" class="btn btn-secondary mb-4">Back</a>
 </div>
 
 </body>

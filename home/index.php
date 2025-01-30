@@ -15,7 +15,7 @@
 
     <div class="buttons-container">
         <div class="card">
-            <a href="../ employees/create.php" class="btn">Manage Employees</a>
+            <a href="../employees/create.php" class="btn">Manage Employees</a>
         </div>
         <div class="card">
             <a href="../department/add.php" class="btn">Manage Departments</a>

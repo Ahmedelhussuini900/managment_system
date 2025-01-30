@@ -19,7 +19,7 @@ CREATE TABLE departments (
          salary FLOAT NOT NULL,
          department_id INT NOT NULL,
          job_title VARCHAR(255) NOT NULL,
-        FOREIGN KEY (department_id) REFERENCES departments(id) ON DELETE CASCADE_;
+        FOREIGN KEY (department_id) REFERENCES departments(id) ON DELETE CASCADE);
 
 
 
